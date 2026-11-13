@@ -1,1 +1,2 @@
-fuzhengwei/toy-agent:1.0.7
+#20261112
+redis/redis-stack:latest
