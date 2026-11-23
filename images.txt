@@ -2,4 +2,7 @@
 #redis/redis-stack:latest
 
 # 20261123
-rustfs/rustfs:1.0.6
+#rustfs/rustfs:1.0.6
+milvusdb/milvus:v2.6.15
+milvusdb/milvus:v2.6.27
+milvusdb/milvus:v3.0.5
