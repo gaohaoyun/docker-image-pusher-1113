@@ -3,6 +3,7 @@
 
 # 20261123
 #rustfs/rustfs:1.0.6
-milvusdb/milvus:v2.6.15
-milvusdb/milvus:v2.6.27
-milvusdb/milvus:v3.0.5
+#milvusdb/milvus:v2.6.15
+#milvusdb/milvus:v2.6.27
+#milvusdb/milvus:v3.0.5
+milvusdb/minio:RELEASE.2024-12-18T13-15-44Z
