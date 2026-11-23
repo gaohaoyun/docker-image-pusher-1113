@@ -2,8 +2,4 @@
 #redis/redis-stack:latest
 
 # 20261123
-#minio/minio:RELEASE.2025-10-15T17-29-55Z
-#minio/minio:RELEASE.2025-07-18T21-56-31Z
-#minio/minio:RELEASE.2025-06-13T11-33-47Z
-minio/minio:latest
-
+rustfs/rustfs:1.0.6
